@@ -7,7 +7,7 @@ A database of computer micro-architectural research and publications. This cover
 
 2# [Characterization of Timing-based Software Side-Channel Attacks and Mitigations on Network-on-Chip Hardware](https://dl.acm.org/doi/abs/10.1145/3585519)
 
-3# [Side-Channel Attacks on Optane Persistent Memory] (https://www.usenix.org/conference/usenixsecurity23/presentation/liusihang)
+3# [Side-Channel Attacks on Optane Persistent Memory](https://www.usenix.org/conference/usenixsecurity23/presentation/liusihang)
 
 ## 2022
 
