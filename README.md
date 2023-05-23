@@ -8,6 +8,7 @@ A database of computer micro-architectural research and publications. This cover
 ## 2022
 
 1# [PACMAN Attacking ARM Pointer Authentication with Speculative Execution](https://pacmanattack.com/)
+
 2# [MultiCon: An Efficient Timing-based Side Channel Attack on Shared Memory Multicores](https://ieeexplore.ieee.org/abstract/document/9978454)
 
 ## 2021
